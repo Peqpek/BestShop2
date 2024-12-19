@@ -1,0 +1,37 @@
+36
+63C:\Users\pacikj\CodersLab\BestShop2\scss\general\_settings.scss133790885352728486 0
+40C:\Users\pacikj\CodersLab\BestShop2\scss133790892361487019 1
+55C:\Users\pacikj\CodersLab\BestShop2\images\Facebook.svg132210722460000000 0
+40C:\Users\pacikj\CodersLab\BestShop2\dist133790908029269024 1
+60C:\Users\pacikj\CodersLab\BestShop2\scss\general\_reset.scss133790885923631303 0
+42C:\Users\pacikj\CodersLab\BestShop2\images133790892361308173 1
+45C:\Users\pacikj\CodersLab\BestShop2\README.md133790894060771374 0
+46C:\Users\pacikj\CodersLab\BestShop2\index.html133790896285922539 0
+48C:\Users\pacikj\CodersLab\BestShop2\scss\general133790892361487019 1
+48C:\Users\pacikj\CodersLab\BestShop2\package.json133790908383704210 0
+49C:\Users\pacikj\CodersLab\BestShop2\scss\elements133790892361487019 1
+50C:\Users\pacikj\CodersLab\BestShop2\scss\main.scss133790884638926211 0
+57C:\Users\pacikj\CodersLab\BestShop2\images\Phone Icon.svg132210722460000000 0
+57C:\Users\pacikj\CodersLab\BestShop2\images\Background.png132210722460000000 0
+50C:\Users\pacikj\CodersLab\BestShop2\scss\variables133790892361587318 1
+63C:\Users\pacikj\CodersLab\BestShop2\scss\variables\_colors.scss133790884929077640 0
+62C:\Users\pacikj\CodersLab\BestShop2\dist\BestShop2.3464ddca.js133790908029269024 0
+62C:\Users\pacikj\CodersLab\BestShop2\scss\variables\_fonts.scss133790887406540444 0
+63C:\Users\pacikj\CodersLab\BestShop2\scss\variables\_mixins.scss133790887176929201 0
+61C:\Users\pacikj\CodersLab\BestShop2\scss\elements\footer.scss133790888520933394 0
+60C:\Users\pacikj\CodersLab\BestShop2\scss\elements\_body.scss133790888449329419 0
+62C:\Users\pacikj\CodersLab\BestShop2\scss\elements\_header.scss133790887937234025 0
+54C:\Users\pacikj\CodersLab\BestShop2\images\Catalog.svg132210722460000000 0
+58C:\Users\pacikj\CodersLab\BestShop2\images\Checkmark-1.svg132210722460000000 0
+58C:\Users\pacikj\CodersLab\BestShop2\images\Checkmark-2.svg132210722460000000 0
+56C:\Users\pacikj\CodersLab\BestShop2\images\Checkmark.svg132210722460000000 0
+52C:\Users\pacikj\CodersLab\BestShop2\images\Close.svg132210722460000000 0
+50C:\Users\pacikj\CodersLab\BestShop2\images\Eye.svg132210722460000000 0
+53C:\Users\pacikj\CodersLab\BestShop2\images\iPhone.png132210722460000000 0
+54C:\Users\pacikj\CodersLab\BestShop2\images\Macbook.png132210722460000000 0
+54C:\Users\pacikj\CodersLab\BestShop2\images\Trumpet.png132210722460000000 0
+56C:\Users\pacikj\CodersLab\BestShop2\images\Mail Icon.svg132210722460000000 0
+53C:\Users\pacikj\CodersLab\BestShop2\images\Person.svg132210722460000000 0
+51C:\Users\pacikj\CodersLab\BestShop2\dist\index.html133790908028868002 0
+54C:\Users\pacikj\CodersLab\BestShop2\images\Twitter.svg132210722460000000 0
+66C:\Users\pacikj\CodersLab\BestShop2\dist\BestShop2.3464ddca.js.map133790908029269024 0
