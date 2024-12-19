@@ -27,3 +27,9 @@ node_modules/
 .solution
 dist
 .parcel-cache
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .parcel-cache directory
+.parcel-cache/
