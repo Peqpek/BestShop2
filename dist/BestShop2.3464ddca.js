@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"gFO08":[function(require,module,exports) {
+})({"gPsf7":[function(require,module,exports) {
 "use strict";
 var global = arguments[3];
 var HMR_HOST = null;
@@ -504,6 +504,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"j4kuM":[function(require,module,exports) {
 
-},{}]},["gFO08","j4kuM"], "j4kuM", "parcelRequiredf5d")
+},{}]},["gPsf7","j4kuM"], "j4kuM", "parcelRequiredf5d")
 
 //# sourceMappingURL=BestShop2.3464ddca.js.map
